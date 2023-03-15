@@ -13,3 +13,4 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
 
+INSERT INTO tb_course (name, img_uri, img_gray_uri) VALUES ('Bootcamp HTML', 'https://www.publicdomainpictures.net/pictures/290000/nahled/training-course.jpg', 'https://as2.ftcdn.net/v2/jpg/02/58/05/87/1000_F_258058720_XnuZapGQr0kzgqy2QJqb0tCxOfSuoomC.jpg');
