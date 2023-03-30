@@ -69,9 +69,8 @@ public class User implements Serializable {
     public Set<Role> getRoles() {
         return roles;
     }
-
-    public void setRoles(Set<Role> roles) {
-        this.roles = roles;
+    public List<Notification> getNotifications() {
+        return notifications;
     }
 
     @Override
